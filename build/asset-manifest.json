@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.25474509.css",
+    "main.js": "/static/js/main.80965c14.js",
+    "static/js/453.e4cabc04.chunk.js": "/static/js/453.e4cabc04.chunk.js",
+    "static/media/delership.png": "/static/media/delership.7b6d506e3b87a3da9262.png",
+    "static/media/carlogo4.png": "/static/media/carlogo4.5de5999088bb208732e6.png",
+    "static/media/loan img.png": "/static/media/loan img.2bbba2f267bebc11be52.png",
+    "static/media/new-footer.png": "/static/media/new-footer.41bfb49263b8a5ecc1e6.png",
+    "static/media/sale1.jpg": "/static/media/sale1.572ee5253c8671ac46f7.jpg",
+    "static/media/sale3.jpg": "/static/media/sale3.55255851afb42eb397cb.jpg",
+    "static/media/sale2.jpg": "/static/media/sale2.5a64e5e6c348584e8d34.jpg",
+    "static/media/interest.jpg": "/static/media/interest.f8575ae8b6eb2e774b55.jpg",
+    "index.html": "/index.html",
+    "main.25474509.css.map": "/static/css/main.25474509.css.map",
+    "main.80965c14.js.map": "/static/js/main.80965c14.js.map",
+    "453.e4cabc04.chunk.js.map": "/static/js/453.e4cabc04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25474509.css",
+    "static/js/main.80965c14.js"
+  ]
+}
